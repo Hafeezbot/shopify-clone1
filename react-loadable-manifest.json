@@ -1,0 +1,32 @@
+{
+  "components\\EarthOrdersSection.tsx -> react-globe.gl": {
+    "id": "components\\EarthOrdersSection.tsx -> react-globe.gl",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_react-globe_gl_dist_react-globe_gl_mjs.js"
+    ]
+  },
+  "components\\earth-orders-section-wrapper.tsx -> @/components/EarthOrdersSection": {
+    "id": "components\\earth-orders-section-wrapper.tsx -> @/components/EarthOrdersSection",
+    "files": [
+      "static/chunks/_app-pages-browser_components_EarthOrdersSection_tsx.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": "node_modules\\next\\dist\\client\\index.js -> ../pages/_app",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__app_js.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": "node_modules\\next\\dist\\client\\index.js -> ../pages/_error",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__error_js.js"
+    ]
+  }
+}
